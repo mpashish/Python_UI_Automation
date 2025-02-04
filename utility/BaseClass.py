@@ -64,3 +64,5 @@ class BaseClass:
             if record_key in item.keys() and record_value in item.values():
                 excel_record.update(item)
         return excel_record
+
+    # Merge demo
