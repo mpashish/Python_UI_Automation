@@ -1,0 +1,29 @@
+2025-01-30 11:17:31,587 : INFO :test_valid_login_title :Initiated browser 
+2025-01-30 11:17:32,262 : INFO :test_valid_login_title :Entered user name and password
+2025-01-30 11:17:33,523 : INFO :test_valid_login_title :Title verified 
+2025-01-31 18:02:58,210 : INFO :test_valid_login_title :Initiated browser 
+2025-01-31 18:02:58,796 : INFO :test_valid_login_title :Entered user name and password
+2025-01-31 18:03:00,271 : INFO :test_valid_login_title :Title verified 
+2025-01-31 22:08:04,002 : INFO :test_valid_login_title :Initiated browser **************************** 
+2025-01-31 22:08:04,443 : INFO :test_valid_login_title :Entered user name and password *******************
+2025-01-31 22:08:05,755 : INFO :test_valid_login_title :Title verified 
+2025-01-31 22:09:41,969 : INFO :test_valid_login_title :Initiated browser **************************** 
+2025-01-31 22:09:42,631 : INFO :test_valid_login_title :Entered user name and password *******************
+2025-01-31 22:09:43,938 : INFO :test_valid_login_title :Title verified 
+2025-01-31 22:22:37,082 : INFO :test_valid_login_title :Initiated browser **************************** 
+2025-01-31 22:38:14,567 : INFO :test_valid_login_title :Initiated browser **************************** 
+2025-01-31 22:38:15,081 : INFO :test_valid_login_title :Entered user name and password *******************
+2025-01-31 22:38:16,463 : INFO :test_valid_login_title :Title verified 
+2025-01-31 22:39:51,388 : INFO :test_valid_login_title :Initiated browser **************************** 
+2025-01-31 22:39:52,130 : INFO :test_valid_login_title :Entered user name and password *******************
+2025-01-31 22:39:53,421 : INFO :test_valid_login_title :Title verified 
+2025-01-31 22:42:25,236 : INFO :test_valid_login_title :Initiated browser **************************** 
+2025-01-31 22:42:25,998 : INFO :test_valid_login_title :Entered user name and password *******************
+2025-01-31 22:42:27,426 : INFO :test_valid_login_title :Title verified 
+2025-01-31 22:44:57,293 : INFO :test_valid_login_title :Initiated browser **************************** 
+2025-01-31 22:44:57,779 : INFO :test_valid_login_title :Entered user name and password *******************
+2025-01-31 22:44:59,151 : INFO :test_valid_login_title :Title verified 
+2025-01-31 23:48:50,358 : INFO :test_valid_login_title :Initiated browser **************************** 
+2025-01-31 23:48:51,012 : INFO :test_valid_login_title :Entered user name and password *******************
+2025-01-31 23:48:52,335 : INFO :test_valid_login_title :Title verified 
+2025-01-31 23:49:05,428 : INFO :test_InValid_login_title :Entered user name and password
