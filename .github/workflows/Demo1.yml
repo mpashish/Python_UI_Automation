@@ -1,0 +1,6 @@
+name: Demo for python test
+
+On:   
+  push:
+    branches: [master]
+
