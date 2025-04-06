@@ -1,0 +1,19 @@
+name:  First python
+
+on:
+  push: 
+    branch: [master]
+
+  workflow_dispatch:
+  
+jobs:  
+  build: 
+    runs-on:  ubuntu-latest
+    steps:
+     - uses:  actions/checkout@v4
+    
+     - name:  Run demo
+       run:  echo Ashish Hello
+       run:  |
+         cd test_cases
+         pytest test_read_data.py
