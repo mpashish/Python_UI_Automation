@@ -1,0 +1,14 @@
+name:  First Work Flow For Python Project
+
+on:
+  push: 
+    branch: [master]
+
+  workflow_dispatch:
+jobs:  
+  build: 
+    runs-on:  ubuntu-latest
+    steps:
+      name:  Run demo
+      run:  echo Ashish Hello
+    
