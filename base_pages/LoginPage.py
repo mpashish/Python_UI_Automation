@@ -3,7 +3,6 @@ from selenium.webdriver.common.by import By
 from utility.BaseClass import BaseClass
 from utility.read_config_file import ReadConfig
 
-
 class Login_Page(BaseClass):
 
     user_name_xpath = "//input[@name = 'username']"
