@@ -10,6 +10,8 @@ jobs:
   build: 
     runs-on:  ubuntu-latest
     steps:
-      name:  Run demo
+     - uses:  actions/checkout@v4
+    
+     - name:  Run demo
       run:  echo Ashish Hello
     
