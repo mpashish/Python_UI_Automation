@@ -1,10 +1,3 @@
-import inspect
-
-import pytest
-from selenium.webdriver.common.by import By
-from selenium.webdriver.common.devtools.v130.dom import discard_search_results
-
-from base_pages.LoginPage import Login_Page
 from utility.BaseClass import BaseClass
 
 
